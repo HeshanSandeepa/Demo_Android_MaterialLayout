@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo-CoordinateLayout</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis, sapien quis viverra scelerisque, orci dui consectetur neque, vel finibus nisl diam ac augue. Donec dui nisl, pulvinar ac aliquam eu, elementum id libero. Nullam non mi eu lectus vehicula luctus eget quis massa. Aenean sagittis erat commodo nunc faucibus, commodo dignissim turpis bibendum. In dui tellus, fringilla in ligula at, pulvinar condimentum velit. Aliquam sed arcu rutrum, vehicula lectus et, ultricies orci. Nulla sit amet metus eget orci maximus pharetra.  Phasellus vel vehicula diam, sed viverra orci. Phasellus nec lectus enim. Donec euismod libero nisi, ultricies molestie ex vehicula vitae. Curabitur blandit augue in ligula hendrerit sagittis. Donec neque ligula, hendrerit in metus vitae, laoreet suscipit diam. Duis pharetra varius faucibus. Vestibulum sed commodo erat. Aenean ultrices aliquet commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris condimentum massa nec blandit lobortis. Aliquam vel fermentum dolor. Pellentesque scelerisque, ex in efficitur vulputate, ligula leo tempor dolor, a lacinia libero libero vel leo. In dictum elit faucibus lorem blandit, in ullamcorper quam pellentesque.</string>
+    <string name="title_activity_text_inout_layout">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_snack_bar">SnackBarActivity</string>
+</resources>
